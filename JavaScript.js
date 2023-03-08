@@ -1,8 +1,8 @@
 ﻿
 
 
-const token = '5656785804:AAFS99Z4BYlnTysofw3_O7oK8myIgbB_ysw';
-const chatId = '5262525993';
+const token = '';
+const chatId = '';
 
 let sendTime = null;
 
